@@ -1,0 +1,4 @@
+<<<<<<< HEAD
+dodanie tekstu / zmiana w pliku
+=======
+>>>>>>> parent of a539645 (drugi commit)
